@@ -8,6 +8,6 @@ Diplômé d'un DUT informatique, je suis actuellement en licence spécialisée d
     </br>
     🌱 - J'apprends le langage C# pour un stage, je suis passionné par les innovations technologiques.
   </p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiralgaby&layout=compact&hide=jupyter notebook" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiralgaby&layout=compact&hide=jupyter notebook,html" />
 </div>
 
