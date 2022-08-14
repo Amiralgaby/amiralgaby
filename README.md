@@ -8,6 +8,6 @@ Diplômé d'un DUT informatique, je suis actuellement en licence spécialisée d
     </br>
     🌱 - Je suis passionné par les innovations technologiques (mon plaisir coupable est Rust)
   </p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiralgaby&layout=compact&hide=jupyter notebook,html" />
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiralgaby&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
