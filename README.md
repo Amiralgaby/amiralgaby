@@ -1,5 +1,5 @@
 ### Gabriel Theuws
-Diplômé d'un DUT informatique, je suis actuellement en licence spécialisée dans le développement web.
+Diplômé d'un DUT informatique, je suis actuellement développeur d'application et de sites web
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=amiralgaby&theme=darkhub&row=1)
 <div>
